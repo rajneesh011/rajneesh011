@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneesh011&label=Profile%20views&color=0e75b6&style=flat" alt="rajneesh011" /> </p>
 
-- 🌱 I’m currently learning ** Prometheus, Grafana**
+- 🌱 I’m currently learning **MERN STACK **
 
 - 💬 Ask me about **DevOps, Cloud**
 
